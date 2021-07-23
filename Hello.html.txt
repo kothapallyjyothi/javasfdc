@@ -1,4 +1,8 @@
 <html>
 <head>
 </head>
+<body>
+<h1>got some idea about git</h1>
+<h2>but what is github</h2>
+</body>
 <html>
